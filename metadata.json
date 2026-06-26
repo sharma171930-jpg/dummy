@@ -1,0 +1,6 @@
+{
+  "name": "Shadeora Frames",
+  "description": "A premium, elegant, fully responsive e-commerce website for eyewear and vision accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
