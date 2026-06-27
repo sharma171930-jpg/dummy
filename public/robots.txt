@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shadeoraframes.netlify.app/sitemap.xml
+Sitemap: https://shadeoraframes.vercel.app/sitemap.xml
