@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shadeoraframes.vercel.app/sitemap.xml
+Sitemap: https://dummy-orcin-sigma.vercel.app/sitemap.xml
